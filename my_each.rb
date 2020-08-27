@@ -7,3 +7,4 @@ end
 collection
 end
 
+my_each(["hi", "hello", "bonjour", "hola"])
