@@ -7,4 +7,4 @@ end
 collection
 end
 
-my_each(["hi", "hello", "bonjour", "hola"])
+my_each(["hi", "hello", "bonjour", "hola"]) { |x| puts x }
